@@ -20,3 +20,4 @@ Basically, I'm:
 I've put some recurring things (mainly relating to boliga.dk's web APIs) into `boliga.py`, but the rest is divided into iPython Notebooks:
 
 * `gettingdata.ipynb`: What web APIs at boliga.dk that's relevant for us to call, how to call them, and what their response is. Also a few preliminary looks at the data. (I've decided to get all data from boliga.dk, since sites like ois.dk don't allow automated requests while boliga.dk does.)
+* `allsales.ipynb`: Look at all sales (prices and dates) since 1992. When is the sales season, and what are the differences in price between regular sales and sales within the family?
